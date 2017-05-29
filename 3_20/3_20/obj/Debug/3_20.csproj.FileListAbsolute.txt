@@ -1,0 +1,6 @@
+c:\users\xdark\documents\visual studio 2015\Projects\3_20\3_20\bin\Debug\3_20.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\3_20\3_20\bin\Debug\3_20.exe
+c:\users\xdark\documents\visual studio 2015\Projects\3_20\3_20\bin\Debug\3_20.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\3_20\3_20\obj\Debug\3_20.csprojResolveAssemblyReference.cache
+c:\users\xdark\documents\visual studio 2015\Projects\3_20\3_20\obj\Debug\3_20.exe
+c:\users\xdark\documents\visual studio 2015\Projects\3_20\3_20\obj\Debug\3_20.pdb
